@@ -1,6 +1,6 @@
 # EDN-Turma-BRSAO179-IA-AWS
 
-## Turma inaugural de aprendizado em Inteligência Artificial
+## Turma aprendizado em Inteligência Artificial
 
 ### Programa promovido pela AWS e Escola da Nuvem 
 
@@ -46,10 +46,6 @@ Este repositório está dividido em pastas com as seguintes atividades:
 - **GitHub**: Uma plataforma baseada na web que utiliza o Git para versionamento de código e facilita a colaboração entre desenvolvedores. No curso, utilizamos o GitHub para armazenar e compartilhar os projetos, contribuindo com código, revisando mudanças e aprendendo práticas de desenvolvimento colaborativo.
 ---
 AWS e Escola da Nuvem
-
-![image - 2025-05-16T110140 115](https://github.com/user-attachments/assets/4e3beceb-67fd-4d0b-8667-6a58f1e8cdfe)
-
-
 ---
 
 Este repositório faz parte de um projeto **educacional em tecnologia**, promovido pela **Escola da Nuvem** com apoio da **AWS**. Nosso objetivo é formar talentos preparados para os desafios do mercado digital, com base em práticas modernas de desenvolvimento, **metodologias ágeis**, e **computação em nuvem**.
