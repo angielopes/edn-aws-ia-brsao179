@@ -1,51 +1,42 @@
 # EDN-Turma-BRSAO179-IA-AWS
 
-## Turma aprendizado em Inteligência Artificial
+## Curso de Inteligência Artificial  
+### Promovido pela Escola da Nuvem em parceria com a AWS
 
-### Programa promovido pela AWS e Escola da Nuvem 
+Este repositório reúne os materiais de aula, atividades práticas e projetos desenvolvidos ao longo do curso de **Inteligência Artificial**, com foco em fundamentos de IA, computação em nuvem e boas práticas de desenvolvimento.
 
-#### é uma grande alegria estar trabalhando como Instrutor Técnico em atividades com os alunos para aprendermos **Inteligência Artificial** **Python** e **AWS**
+A formação foi baseada em projetos práticos, colaboração em grupo e uso de metodologias ágeis, com o objetivo de preparar novos profissionais para o mercado de tecnologia, especialmente nas áreas de **Cloud Computing (AWS)** e **Inteligência Artificial (IA)**.
 
-Este repositório contém o material das aulas e práticas desenvolvidas durante o curso de **Inteligência Artificial**, focado nos fundamentos da IA, computação em nuvem e boas práticas de desenvolvimento. A capacitação técnica foi realizada com projetos práticos e colaboração em grupo, com o objetivo de formar novos talentos em tecnologia.com foco em **computação em nuvem (AWS)** e **Inteligência Artificial (IA)**. A capacitação é direcionada para participantes que buscam as certificações **AWS Cloud Practitioner** e **IA Practitioner**.
+O curso também serve como preparação para as certificações **AWS Cloud Practitioner** e **AI Practitioner**.
 
 ---
 
-## Objetivo do Projeto
+## Sobre o Repositório
 
-O objetivo deste repositório é compartilhar o conhecimento adquirido durante as aulas, com foco no desenvolvimento de habilidades em:
+O conteúdo deste repositório reflete os conhecimentos adquiridos durante as aulas, com ênfase no desenvolvimento das seguintes habilidades:
 
 - **Fundamentos de Inteligência Artificial**  
-- **Computação em Nuvem (AWS)**  
-- **Boas Práticas de Desenvolvimento de Software**  
-- **Trabalhos práticos com projetos colaborativos**
+- **Computação em Nuvem com AWS**  
+- **Práticas de Desenvolvimento de Software**  
+- **Projetos práticos e colaborativos**
 
- Os projetos serão realizados com base em **metodologias ágeis**, organizando os alunos em **equipes (squads)**. Cada grupo terá um **tema específico de projeto** e realizará entregas por meio de **sprints**, promovendo o trabalho em equipe, comunicação efetiva e desenvolvimento iterativo e incremental. 
-, o curso oferece uma introdução ao uso da **AWS** para a construção de soluções baseadas em **Cloud Computing** e **IA**.
-
----
-## Estrutura do Repositório
-
-Este repositório está dividido em pastas com as seguintes atividades:
-
-- **aula01/**: Conteúdo e atividades da primeira aula sobre os fundamentos de IA e AWS.
-- **pratica01/**: Exercícios práticos que envolvem a aplicação dos conceitos de IA.
+As atividades foram organizadas em equipes (squads), que trabalharam com temas específicos ao longo de sprints, seguindo princípios de desenvolvimento iterativo e colaborativo. Também exploramos o uso da AWS para criação de soluções em nuvem integradas à IA.
 
 ---
-## Tecnologias Utilizadas
 
-- **AWS** (Amazon Web Services) Plataforma de serviços em nuvem usada para hospedar e escalar aplicações.
-  
-- **Python** Linguagem de programação utilizada no desenvolvimento de soluções em Inteligência Artificial.
-  
-- **Machine Learning**: Aplicação de algoritmos e técnicas para treinar modelos de IA.
-  
-- **Visual Studio Code** (VS Code): Um editor de código-fonte gratuito, leve e poderoso, desenvolvido pela Microsoft. É amplamente utilizado por desenvolvedores para programar em diversas linguagens, como Python, JavaScript e outras. No curso, usamos o VS Code como ambiente de desenvolvimento para escrever, testar e depurar nossos códigos de forma prática e organizada.
- 
-- **Git**: Um sistema de controle de versão distribuído, usado para registrar alterações no código-fonte ao longo do tempo. Com o Git, conseguimos trabalhar em equipe de maneira segura, criando históricos de versões, revertendo alterações e colaborando em projetos sem sobrescrever o trabalho de outros colegas.
+## Tecnologias e Ferramentas
 
-- **GitHub**: Uma plataforma baseada na web que utiliza o Git para versionamento de código e facilita a colaboração entre desenvolvedores. No curso, utilizamos o GitHub para armazenar e compartilhar os projetos, contribuindo com código, revisando mudanças e aprendendo práticas de desenvolvimento colaborativo.
----
-AWS e Escola da Nuvem
+- **AWS**: Plataforma de serviços em nuvem utilizada para construção e escalonamento de soluções tecnológicas  
+- **Python**: Linguagem de programação adotada para desenvolvimento de projetos com IA  
+- **Machine Learning**: Técnicas e algoritmos aplicados para criação de modelos inteligentes  
+- **Visual Studio Code (VS Code)**: Ambiente de desenvolvimento usado nas aulas para escrever, testar e depurar códigos  
+- **Git**: Sistema de controle de versão utilizado para rastrear alterações no código-fonte e facilitar o trabalho em equipe  
+- **GitHub**: Plataforma usada para colaboração, versionamento e publicação dos projetos desenvolvidos ao longo do curso
+
 ---
 
-Este repositório faz parte de um projeto **educacional em tecnologia**, promovido pela **Escola da Nuvem** com apoio da **AWS**. Nosso objetivo é formar talentos preparados para os desafios do mercado digital, com base em práticas modernas de desenvolvimento, **metodologias ágeis**, e **computação em nuvem**.
+## Sobre a Iniciativa
+
+Este repositório faz parte de uma iniciativa educacional promovida pela **Escola da Nuvem**, com apoio da **AWS**, voltada para a capacitação de novos talentos em tecnologia.
+
+A proposta do curso é oferecer uma formação acessível, prática e conectada com o mercado, com foco em **metodologias ágeis**, **desenvolvimento colaborativo** e **infraestrutura em nuvem**.
